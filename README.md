@@ -1,13 +1,13 @@
 # SAT-CORE-GETTING_STARTED
-Welcome to the Cube³ Satellite Club's repository! We design and build CubeSats to partner with various organizations and provide students with hands-on experience in software development, automation, embedded systems, and control systems.
+Welcome to the Cube³ Satellite Club's initial base satellite project! We design and build CubeSats to partner with various organizations and provide students with hands-on experience in software development, automation, embedded systems, and control systems.
 
-Table of Contents
+Table of Contents (WIP)
 
     About Us
     Project Overview
     Getting Started
-        Prerequisites
-        Installation
+    Prerequisites
+    Installation
     Contributing
     Project Structure
     Usage
@@ -15,7 +15,7 @@ Table of Contents
     Acknowledgments
     License
 
-roject Overview
+Project Overview
 
 This repository contains the code and documentation for our base CubeSat project. The project focuses
 on the foundation for each following payload mission. We encompass the neccessary firmware instrumentation
